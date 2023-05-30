@@ -1,1 +1,1 @@
-# kotlin-test
+# kotlin-study
